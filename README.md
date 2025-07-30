@@ -12,14 +12,14 @@ by using the code above, the **Date** column type has been converted to datetime
 
 ### Check and Fix Typing Problem
 
-![image alt] (https://github.com/jokoGemblonG/Supermarket-Sales/blob/5ece26d1fcb3720cfeded10fd616a33003fc5432/Photos/typing_check.png)
+![image alt](https://github.com/jokoGemblonG/Supermarket-Sales/blob/5ece26d1fcb3720cfeded10fd616a33003fc5432/Photos/typing_check.png)
 The output shows that only **Gender** column that has a typo. So we have to fix this problem.
 
-![image alt] (https://github.com/jokoGemblonG/Supermarket-Sales/blob/5ece26d1fcb3720cfeded10fd616a33003fc5432/Photos/solving_the_typing_problem.png)
+![image alt](https://github.com/jokoGemblonG/Supermarket-Sales/blob/5ece26d1fcb3720cfeded10fd616a33003fc5432/Photos/solving_the_typing_problem.png)
 
 After fixing the typing problem, we should check if there is a **duplicate data**
 
-![image alt] (https://github.com/jokoGemblonG/Supermarket-Sales/blob/969c07976e105cd8511950b018cc5683aa44f7cc/Photos/duplicate_check.png)
+![image alt](https://github.com/jokoGemblonG/Supermarket-Sales/blob/969c07976e105cd8511950b018cc5683aa44f7cc/Photos/duplicate_check.png)
 
 There is no duplicate data. Data Preparation is finish, then we could proceed the **Exploratory Data Analysis**.
 
