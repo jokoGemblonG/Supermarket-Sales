@@ -5,6 +5,7 @@ This repository contains the results of analysis and visualization of supermarke
 
 ### Change Data Type
 ![image alt](https://github.com/jokoGemblonG/Supermarket-Sales/blob/e4d93054a2d037c7e7b0f03a5eea5b6a1acb8e58/Photos/data_type_1.png)
+
 by using the code above, the **Date** column type has been converted to datetime type
 
 ### Add Revenue Column
@@ -13,6 +14,7 @@ by using the code above, the **Date** column type has been converted to datetime
 ### Check and Fix Typing Problem
 
 ![image alt](https://github.com/jokoGemblonG/Supermarket-Sales/blob/5ece26d1fcb3720cfeded10fd616a33003fc5432/Photos/typing_check.png)
+
 The output shows that only **Gender** column that has a typo. So we have to fix this problem.
 
 ![image alt](https://github.com/jokoGemblonG/Supermarket-Sales/blob/5ece26d1fcb3720cfeded10fd616a33003fc5432/Photos/solving_the_typing_problem.png)
