@@ -36,5 +36,12 @@ The highest company revenue in a day was achieved on March 15, 2019, amounting t
 
 #### Company Revenue in Each City
 
-![image alt](Photos/Cumulative Revenue by City.png)
+![image alt](https://github.com/jokoGemblonG/Supermarket-Sales/blob/8d19ec6df91df665515f8ae8bf72b4cd04268752/Photos/Cumulative%20Revenue%20by%20City.png)
 
+We can conclude that Naypyitaw is the city with the highest revenue compared to the other two cities.
+
+#### Company Revenue from Various Product Line
+
+![image alt](https://github.com/jokoGemblonG/Supermarket-Sales/blob/be50283ec4c77a30a1c298fcfb17840a169ef61d/Photos/Cumulative%20Revenue%20by%20Product%20Line.png)
+
+Health and Beauty is the lowest Product line compared to other Product line.
