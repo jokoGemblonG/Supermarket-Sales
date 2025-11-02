@@ -27,4 +27,14 @@ There is no duplicate data. Data Preparation is finish, then we could proceed th
 
 ## Exploratory Data Analysis
 
-![image alt](https://github.com/jokoGemblonG/Supermarket-Sales/blob/2a0e479426f6db090f14990fb16158a0007d6c0f/Photos/rev_changes.png)
+### Company Revenue
+
+![image alt](https://github.com/jokoGemblonG/Supermarket-Sales/blob/8d19ec6df91df665515f8ae8bf72b4cd04268752/Photos/total%20revenue%20by%20week.png)
+
+We can conclude an information from the graph that the highest company revenue was achieved on Week 4 (21-27 January 2019), amounting to $27.892,27 and the lowest company revenue was achieve on Week 8 (18-24 February 2019), amounting to $16.503,49.
+The highest company revenue in a day was achieved on March 15, 2019, amounting to $7.118,14 and the lowest company revenue in a day was achieve on February 13, 2019, amounting to $889,75.
+
+#### Company Revenue in Each City
+
+![image alt](Photos/Cumulative Revenue by City.png)
+
