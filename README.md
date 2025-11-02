@@ -3,15 +3,15 @@ This repository contains the results of analysis and visualization of supermarke
 
 ## Data Preparation
 
-### Change Data Type
+#### Change Data Type
 ![image alt](https://github.com/jokoGemblonG/Supermarket-Sales/blob/e4d93054a2d037c7e7b0f03a5eea5b6a1acb8e58/Photos/data_type_1.png)
 
 by using the code above, the **Date** column type has been converted to datetime type
 
-### Add Revenue Column
+#### Add Revenue Column
 ![image alt](https://github.com/jokoGemblonG/Supermarket-Sales/blob/0594217b22ea0325a479abfef8a6bffe2dc361d4/Photos/add_revenue_column.png)
 
-### Check and Fix Typing Problem
+#### Check and Fix Typing Problem
 
 ![image alt](https://github.com/jokoGemblonG/Supermarket-Sales/blob/5ece26d1fcb3720cfeded10fd616a33003fc5432/Photos/typing_check.png)
 
